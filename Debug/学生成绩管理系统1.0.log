@@ -1,0 +1,3 @@
+﻿E:\vs2017\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(学生成绩管理系统1.0.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  学生成绩管理系统1.0.vcxproj -> D:\学生成绩管理系统1.0\Debug\student management system1.0.exe
+  学生成绩管理系统1.0.vcxproj -> D:\学生成绩管理系统1.0\Debug\student management system1.0.pdb (Partial PDB)
